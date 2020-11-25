@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Deepak M S [Deepak-coder80][website] 👋
 
-[![Website](https://img.shields.io/website?label=codeSTACKr.com&style=for-the-badge&url=https%3A%2F%2Fcodestackr.com)](https://deepakms.info)
+[![Website](#)](https://deepakms.info)
 
 
 
