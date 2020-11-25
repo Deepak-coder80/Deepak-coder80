@@ -6,7 +6,7 @@
 
 
 
-## I'm a Husband, Father, Developer, and Teacher!!
+## I'm a  Developer, and Student!!
 
 - 🔭 I just launched my first course: not available now
 
