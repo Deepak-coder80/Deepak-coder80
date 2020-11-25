@@ -1,9 +1,4 @@
-### Hi there 👋
 
-<!--
-**Deepak-coder80/Deepak-coder80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- 
 
 ### Hi there, I'm Deepak M S [Deepak-coder80][website] 👋
 
