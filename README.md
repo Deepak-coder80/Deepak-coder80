@@ -1,8 +1,8 @@
 
 
-### Hi there, I'm Deepak M S ( [Deepak-coder80])[website] 👋
+### Hi there, I'm Deepak M S ( [Deepak-coder80])[website(#)](https://deepakms.info) 👋
 
-[![Website](#)](https://deepakms.info)
+(https://deepakms.info)
 
 
 
@@ -10,11 +10,11 @@
 
 - 🔭 I just launched my first course: not available now
 
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning everything java android app development
 
 - 👯 I’m looking to collaborate with other content creators
 
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 - ⚡ Fun fact: I love to coding
 
@@ -36,7 +36,7 @@
 
 </details>
 
-[website]: https://www.deepakms.info
+[website]: https://www.deepakms.info/
 
 
 
