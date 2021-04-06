@@ -2,7 +2,7 @@
 
 ### Hi there, I'm Deepak M S ( [Deepak-coder80])[website(#)](https://deepakms.info) 👋
 
-(https://deepakms.info)
+
 
 
 
