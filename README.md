@@ -6,9 +6,9 @@
 
 
 
-## I'm a  Developer, and Student!!
+## I'm a  Developer and Student!!
 
-- 🔭 I just launched my first course: not available now
+- 🔭 I just launched my first course: COmming Soon.
 
 - 🌱 I’m currently learning everything java android app development
 
