@@ -8,7 +8,7 @@
 
 ## I'm a  Developer and Student!!
 
-- 🔭 I just launched my first course: COmming Soon.
+- 🔭 I just launched my first course: At Noobcoder10 organisation BasicsofC
 
 - 🌱 I’m currently learning everything java android app development
 
