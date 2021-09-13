@@ -20,10 +20,10 @@
 
 ### Get in touch
 
-[<img align="left" alt="Jobin_Biju | Whatsapp" width="22px" src="images/whatsapp.svg" />][whatsapp]
-[<img align="left" alt="Jobin_BIju | LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
-[<img align="left" alt="Jobin_BIju | Instagram" width="22px" src="images/instagram.svg" />][instagram]
-[<img align="left" alt="Jobin_BIju | Website" width="22px" src="images/link.png" />][website]
+[<img align="left" alt="Deepak | Whatsapp" width="22px" src="images/whatsapp.svg" />][whatsapp]
+[<img align="left" alt="Deepak | LinkedIn" width="22px" src="images/linkedin.svg" />][linkedin]
+[<img align="left" alt="Deepak | Instagram" width="22px" src="images/instagram.svg" />][instagram]
+
 
 
 
