@@ -45,8 +45,10 @@
 <summary>
   <b>WakaTime Status</b>
 </summary>
-<p align="center"> <img alt="Deepak's WakaTime Stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=Deepak-coder80" />
+<p align="center"> [<img alt="Deepak's WakaTime Stats" src="" />][Deepak's wakatime stats]
 </details>
+[![Deepak's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Deepak-coder80)](https://github.com/Deepak-coder80/github-readme-stats)
+
 
 <br />
 <br />
