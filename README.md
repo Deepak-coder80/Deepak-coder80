@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
+[<img src="https://open.spotify.com/playlist/3LFjQea3fra6q6O1XCYWcp" alt=" Spotify Playing" width="350" />](https://open.spotify.com/playlist/3LFjQea3fra6q6O1XCYWcp)
 
 ### Get in touch
 
