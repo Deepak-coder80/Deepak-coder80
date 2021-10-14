@@ -13,7 +13,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://open.spotify.com/playlist/3LFjQea3fra6q6O1XCYWcp" alt=" Spotify Playing" width="350" />](https://open.spotify.com/playlist/3LFjQea3fra6q6O1XCYWcp)
+![On Spotify](https://spotifyme.vercel.app/api/spotify)
 
 ### Get in touch
 
