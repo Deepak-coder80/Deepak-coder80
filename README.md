@@ -45,7 +45,7 @@
 <br />
 <br />
 
-![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=akash-santhosh&bg_color=000000&color=718191&line=e9e9ea&point=e9e9ea&area=true&hide_border=true)
+![Deepak's github activity graph](https://activity-graph.herokuapp.com/graph?username=Deepak-coder80&bg_color=000000&color=718191&line=e9e9ea&point=e9e9ea&area=true&hide_border=true)
 
 
 [whatsapp]: https://wa.me/918086452221/
