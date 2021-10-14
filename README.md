@@ -11,6 +11,7 @@
   </samp>
 </p>
 
+
 ### Spotify Playing 🎧
 
 ![On Spotify](https://spotifyme.vercel.app/api/spotify)
@@ -32,6 +33,12 @@
   <b>Github Stats</b>
 </summary>
 <p align="center"> <img alt="Deepak's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Deepak-coder80&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=true&bg_color=0D1117"/>
+</details>
+<details>
+<summary>
+  <b>Github Streaks</b>
+</summary>
+<p align="center"> <img alt="Deepak's Github Streaks" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-coder80&"/>
 </details>
 
 <details>
