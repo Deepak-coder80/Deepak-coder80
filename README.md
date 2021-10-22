@@ -7,7 +7,7 @@
   
   
   <samp>
-    I'm <a href="https://www.linkedin.com/in/deepak-m-s-b307631b7/">Deepak</a> currently a First Year Computer Science and Engineering student at <a href="https://soe.cusat.ac.in/">School of Engineering, CUSAT </a> and an aspiring software & hardware developer:computer:. Interested in  Application development using Flutter. I'm always curious about new technologies and love to control hardware with software and frameworks.
+    I'm <a href="https://www.linkedin.com/in/deepak-m-s-b307631b7/">Deepak</a> currently a Second Year Computer Science and Engineering student at <a href="https://soe.cusat.ac.in/">School of Engineering, CUSAT </a> and an aspiring software & hardware developer:computer:. Interested in  Application development using Flutter. I'm always curious about new technologies and love to control hardware with software and frameworks.
   </samp>
 </p>
 
