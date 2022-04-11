@@ -11,11 +11,11 @@
   </samp>
 </p>
 
-
+<!--
 ### Spotify Playing 🎧
 
 ![On Spotify](https://spotifyme.vercel.app/api/spotify)
-
+-->
 ### Get in touch
 
 [<img align="left" alt="Deepak | Whatsapp" width="22px" src="images/whatsapp.svg" />][whatsapp]
