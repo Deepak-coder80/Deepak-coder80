@@ -1,5 +1,5 @@
 # 💫About Me :
-I'm Deepak currently a Second Year Computer Science and Engineering
+I'm Deepak currently a Third Year Computer Science and Engineering
  student at School of Engineering, CUSAT and an aspiring software &
  hardware developer💻. Interested in Application development using 
 Flutter. I'm always curious about new technologies and love to control 
