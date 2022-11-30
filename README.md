@@ -109,7 +109,7 @@
 <br/>  
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=Deepak-coder80&&style=flat-square" align="center" />
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepak-coder80&show_icons=true&locale=en" alt="deepak-coder80" /></p>
 </div>  
   
 
