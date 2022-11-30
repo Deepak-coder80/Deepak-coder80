@@ -114,4 +114,4 @@
 ----
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
 <br><br>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-coder80&" alt="deepak-coder80" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-coder80&" alt="deepak-coder80" /></p>
