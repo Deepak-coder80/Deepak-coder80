@@ -6,7 +6,7 @@
 ### <div align="center">A passionate flutter app developer from India. Always Try to explore new technologies. I'm always curious about new technologies and love to control hardware with software and frameworks. Currently I am Third Year Computer Science and Engineering student at School of Engineering, CUSAT and an aspiring software & hardware developer</div>  
   
 
-- 🔭 II’m currently working on [Agrivator](https://github.com/agrivator/v3-app-dart)  
+- 🔭 II’m currently working as freelancer
   
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**  
