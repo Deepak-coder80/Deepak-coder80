@@ -15,7 +15,7 @@
 - ❓Ask me about **Flutter,MySQL,Linux Fundamentals,Python**  
   
 
-- 👯 I’m looking to collaborate on [SIMPTODO](https://github.com/Deepak-coder80/SIMPTODO)  
+- 👯 I’m looking to collaborate on Machine learning projec
   
 
 -  📝 I  write articles on [medium](https://medium.com/@deepakcoder80)  
