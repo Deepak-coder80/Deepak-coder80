@@ -115,3 +115,5 @@
 <!-- <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div> -->
 <br><br>
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepak-coder80&" alt="deepak-coder80" /></p>
+<br><br>
+[![An image of @deepakcoder80's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/deepakcoder80)](https://holopin.io/@deepakcoder80)
