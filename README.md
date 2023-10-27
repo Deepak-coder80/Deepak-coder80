@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">A passionate flutter app developer from India. Always Try to explore new technologies. I'm always curious about new technologies and love to control hardware with software and frameworks. Currently I am Third Year Computer Science and Engineering student at School of Engineering, CUSAT and an aspiring software & hardware developer</div>  
+### <div align="center">A passionate flutter app developer from India. Always Try to explore new technologies. I'm always curious about new technologies and love to control hardware with software and frameworks. Currently I am Fourth Year Computer Science and Engineering student at School of Engineering, CUSAT and an aspiring software & hardware developer</div>  
   
 
 - 🔭 II’m currently working as freelancer
