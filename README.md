@@ -3,7 +3,21 @@
 </div>  
   
 
-### <div align="center">A passionate flutter app developer from India. Always Try to explore new technologies. I'm always curious about new technologies and love to control hardware with software and frameworks. Currently I am Fourth Year Computer Science and Engineering student at School of Engineering, CUSAT and an aspiring software & hardware developer</div>  
+### <div align="center">🚀 Software Engineer | System Design & Development | Cloud Infrastructure Enthusiast
+🌐 Driving Efficiency & Quality in Software Engineering
+
+Hi there! I'm a dedicated software engineer passionate about designing and developing complex systems. I specialize in improving team efficiency, enhancing code quality, and optimizing performance. With a strong focus on infrastructure and cloud, I thrive on leveraging cutting-edge technologies to solve challenging problems.
+
+💡 I’m particularly interested in:
+
+- Cloud-native solutions, especially on AWS
+- Infrastructure as Code (IaC)
+- Kubernetes and container orchestration
+- Continuous Integration & Deployment (CI/CD)
+- System performance tuning and optimization
+🔍 Currently, I manage a private EKS cluster on AWS, ensuring secure and efficient access through jump servers. I'm always eager to explore new tech and find innovative ways to bridge hardware and software.
+
+Let's connect and collaborate to create scalable, robust, and efficient software solutions!</div>  
   
 
 - 🔭 II’m currently working as freelancer
