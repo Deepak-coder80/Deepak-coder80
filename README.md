@@ -20,16 +20,16 @@ Hi there! I'm a dedicated software engineer passionate about designing and devel
 Let's connect and collaborate to create scalable, robust, and efficient software solutions!</div>  
   
 
-- 🔭 II’m currently working as freelancer
+- 🔭 II’m currently working as software engineer in KIREAP TECHONOLOGIES PVT LTD
   
 
 - 🌱 I’m currently learning **Machine Learning and Data Science**  
   
 
-- ❓Ask me about **Flutter,MySQL,Linux Fundamentals,Python**  
+- ❓Ask me about **Flutter,MySQL,Linux Fundamentals,Python, AWS**  
   
 
-- 👯 I’m looking to collaborate on Machine learning projec
+- 👯 I’m looking to collaborate on Machine learning project
   
 
 -  📝 I  write articles on [medium](https://medium.com/@deepakcoder80)  
