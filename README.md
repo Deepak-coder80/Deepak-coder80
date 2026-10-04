@@ -36,7 +36,7 @@
 class DeepakMS:
     name        = "Deepak M S"
     location    = "Kochi, Kerala, India 🇮🇳"
-    degree      = "B.Tech CSE — CUSAT (CGPA: 8.63 / 10)"
+    degree      = "B.Tech CSE — CUSAT"
 
     stack = [
         "AWS ECS/Fargate", "EKS", "Terraform",
